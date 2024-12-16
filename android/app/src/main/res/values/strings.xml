@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">switch_on_off</string>
+    <string name="accessibility_service_description">Double Tap Service for screen control</string>
+</resources>
